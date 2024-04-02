@@ -17,10 +17,3 @@
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat-square)](https://www.instagram.com/paulo.s_c/)
   
 </div>
-
-## Principais Tecnologias:
-
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=fff&style=flat)&nbsp;
-![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=plastic)&nbsp;
-![Microsoft SQL Server Badge](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat)&nbsp;
-
