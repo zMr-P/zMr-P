@@ -1,8 +1,8 @@
 <h2 align="left">Olá 👋! Meu nome é Paulo e sou um Desenvolvedor .Net</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zMr-P&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMr-P&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zMr-P&theme=nord&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMr-P&theme=nord&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
 </div>
 
 
