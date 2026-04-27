@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Bem-vindo ao meu espaço digital</h1>
-<h3 align="center">Paulo | Desenvolvedor .NET | Software Engineer</h3>
+<h3 align="center">Paulo | Desenvolvedor .NET | Engenheiro de Software</h3>
 
 --- 
 
